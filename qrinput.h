@@ -22,6 +22,8 @@
 #ifndef __QRINPUT_H__
 #define __QRINPUT_H__
 
+#define EINVAL 21
+
 #include "qrencode.h"
 #include "bitstream.h"
 

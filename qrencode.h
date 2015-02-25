@@ -96,6 +96,11 @@
  * encoding symbols.
  */
 
+#define MAJOR_VERSION 1
+#define MINOR_VERSION 1
+#define MICRO_VERSION 1
+#define VERSION 1
+
 #ifndef __QRENCODE_H__
 #define __QRENCODE_H__
 

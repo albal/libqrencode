@@ -19,6 +19,8 @@
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
  */
 
+#define EINVAL 21
+ 
 #ifndef __MASK_H__
 #define __MASK_H__
 
